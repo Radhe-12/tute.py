@@ -1,7 +1,7 @@
 user = int(input('Enter a number: '))
 
 if user % 2 == 0:
-    print('This is an even number')
+    print(user, 'is an even number')
 else:
-    print('This is an odd number')
+    print(user, 'is an odd number')
 
