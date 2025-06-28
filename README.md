@@ -13,7 +13,7 @@ These tasks helped me practice using:
 
 ## ✅ Task 1: Check if a Number is Even or Odd
 
-**File Name:** `even_odd.py`
+**File Name:** `Tasks1`
 
 ### 💡 What This Program Does:
 - Asks the user to enter a number
@@ -24,3 +24,19 @@ These tasks helped me practice using:
 Enter an integer: 8
 
 8 is an even number.
+
+
+
+
+## ➕ Task 2: Sum of Numbers from 1 to 50
+
+**File Name:** `Tasks2`
+
+### 💡 What This Program Does:
+- Uses a `for` loop to go through numbers from 1 to 50
+- Adds them together
+- Prints the total sum
+
+### 🧪 Example Output:
+
+The sum of integers from 1 to 50 is: 1275
