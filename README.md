@@ -22,4 +22,5 @@ These tasks helped me practice using:
 
 ### 🧪 Example Output:
 Enter an integer: 8
-The number is even.
+
+8 is an even number.
